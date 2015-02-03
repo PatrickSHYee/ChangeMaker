@@ -177,6 +177,9 @@ namespace ChangeMaker
         }
     }
 
+    /// <summary>
+    /// An object to store the counters for this bills
+    /// </summary>
     public class DollarChange
     {
         // properties that are public
